@@ -1,5 +1,6 @@
 # SKYNET-AI
-<img width="545" height="453" alt="image" src="https://github.com/user-attachments/assets/eb6e473b-9daa-4682-a6ec-f7698d9bfce5" />
+
+<img width="139" height="129" alt="image - November 03, 2025 at 10 15 45" src="https://github.com/user-attachments/assets/de62a067-e7d7-45bb-9749-101142926609" />
 
 🧠 SKYNET AI — Ethical Hacking Chatbot for Cybersecurity
 
